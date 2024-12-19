@@ -3,3 +3,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [X] Header
+- [X] Image
+- [X] Script
+- [X] List
